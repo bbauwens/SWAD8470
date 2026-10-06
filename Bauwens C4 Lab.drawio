@@ -22,8 +22,8 @@
         <mxCell id="vOe1SsS5YWaTOGJzT_l3-9" value="Internet Account Payment System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vOe1SsS5YWaTOGJzT_l3-11" value="Phone Account Payment System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="vOe1SsS5YWaTOGJzT_l3-11" value="Phone Account Payment System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
