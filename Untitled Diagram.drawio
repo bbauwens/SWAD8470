@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vRaGP8FdxiH_ioR5vRBc">
-    <mxGraphModel dx="2054" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2904" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UcjCYjoCDMnPqILwP_1W-1" parent="1" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Patient" vertex="1">
-          <mxGeometry height="60" width="40" x="60" y="150" as="geometry" />
+          <mxGeometry height="70" width="50" x="-140" y="260" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Electronic Health Record System&lt;/b&gt;&lt;br&gt;Includes separate portals for patient, clinician, nurse, and doctor." vertex="1">
           <mxGeometry height="80" width="150" x="310" y="60" as="geometry" />
@@ -14,19 +14,19 @@
           <mxGeometry height="60" width="40" x="780" y="160" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-4" parent="1" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Nurse" vertex="1">
-          <mxGeometry height="60" width="40" x="570" y="240" as="geometry" />
+          <mxGeometry height="60" width="40" x="670" y="220" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-5" parent="1" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Clinician" vertex="1">
-          <mxGeometry height="60" width="40" x="260" y="220" as="geometry" />
+          <mxGeometry height="60" width="40" x="220" y="220" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Internet Account Payment System" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="-200" y="70" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Phone Account Payment System" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="470" as="geometry" />
         </mxCell>
         <mxCell id="UcjCYjoCDMnPqILwP_1W-10" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-1" value="sending notifications of upcoming appointments">
-          <mxGeometry relative="1" x="-0.2146" y="10" as="geometry">
+          <mxGeometry relative="1" x="0.1692" y="24" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="203.57142857142844" y="128.66004962779164" />
@@ -35,11 +35,11 @@
             <mxPoint x="160" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UcjCYjoCDMnPqILwP_1W-11" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-1" value="receiving doctors notes">
+        <mxCell id="UcjCYjoCDMnPqILwP_1W-11" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-1" value="receiving doctors notes">
           <mxGeometry relative="1" x="-0.1279" y="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="350" y="60" />
+              <mxPoint x="92.5" y="80" />
             </Array>
             <mxPoint x="470" y="270" as="sourcePoint" />
             <mxPoint x="390" y="270" as="targetPoint" />
@@ -51,7 +51,7 @@
             <mxPoint x="510" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UcjCYjoCDMnPqILwP_1W-19" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-4" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.225;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.96;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-2" value="entering in-room hospital notes">
+        <mxCell id="UcjCYjoCDMnPqILwP_1W-19" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-4" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.225;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-2" value="entering in-room hospital notes">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="350" y="270" as="sourcePoint" />
             <mxPoint x="510" y="270" as="targetPoint" />
@@ -65,6 +65,85 @@
             </Array>
             <mxPoint x="470" y="270" as="sourcePoint" />
             <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-1" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-7" value="account payment phone data request">
+          <mxGeometry relative="1" x="0.52" y="-3" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="5" y="230" />
+            </Array>
+            <mxPoint x="470" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-2" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.933;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.05;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-1" value="account payment phone data status response">
+          <mxGeometry relative="1" width="160" x="-0.1623" y="-31" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-3" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.847;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-2" value="account payment data portal update">
+          <mxGeometry relative="1" width="160" x="0.3634" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="550" />
+              <mxPoint x="290" y="550" />
+              <mxPoint x="390" y="350" />
+            </Array>
+            <mxPoint x="120" y="533" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-6" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-2" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.64;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.017;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-7" value="account payment data">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-7" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-2" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-6" value="account payment data">
+          <mxGeometry relative="1" width="160" x="0.3885" as="geometry">
+            <Array as="points">
+              <mxPoint x="347.5" y="10" />
+              <mxPoint x="-90" y="10" />
+              <mxPoint x="-110" y="10" />
+            </Array>
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-8" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-6" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=-0.017;exitY=0.65;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-1" value="account payment internet data status response">
+          <mxGeometry relative="1" width="160" x="-0.0747" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-260" y="110" />
+              <mxPoint x="-260" y="220" />
+              <mxPoint x="-260" y="300" />
+            </Array>
+            <mxPoint x="310" y="603" as="sourcePoint" />
+            <mxPoint x="-160" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-10" edge="1" parent="1" source="UcjCYjoCDMnPqILwP_1W-1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="UcjCYjoCDMnPqILwP_1W-6" value="account payment internet data request">
+          <mxGeometry relative="1" x="0.1394" y="-16" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-123.75" y="130" />
+            </Array>
+            <mxPoint x="-241" y="310" as="sourcePoint" />
+            <mxPoint x="-290" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgXbikMe9Ku9_NVtXG2s-12" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.647;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" target="UcjCYjoCDMnPqILwP_1W-2" value="account payment data portal update">
+          <mxGeometry relative="1" width="160" x="-0.0537" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-150" y="-30" />
+              <mxPoint x="110" y="-30" />
+              <mxPoint x="410" y="-30" />
+            </Array>
+            <mxPoint x="-150" y="63.04" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
